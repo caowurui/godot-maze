@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c3t3ro7d0lou8"
-path="res://.godot/imported/obj.png-c7816310f670ecaae0e860e93c8f56d1.ctex"
+uid="uid://dcbavkjss6atp"
+path="res://.godot/imported/DummyTilemapVer2.png-3eec19c5deb1d0ec440eb8a286762d7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/obj.png"
-dest_files=["res://.godot/imported/obj.png-c7816310f670ecaae0e860e93c8f56d1.ctex"]
+source_file="res://asset/DummyTilemapVer2.png"
+dest_files=["res://.godot/imported/DummyTilemapVer2.png-3eec19c5deb1d0ec440eb8a286762d7f.ctex"]
 
 [params]
 
